@@ -11,7 +11,7 @@ weight = 20
 **Description:** A responsive web application for online shopping with basic features to be used for demonstration purpose. The application is compatible with both desktop & mobile platforms. 
 
 **Key Features:**
--	Registration  
+-  Registration  
 -	Login  
 -	Product Search  
 -	Adding To Bag  
@@ -21,9 +21,9 @@ weight = 20
 
 **Sample Application Architecture:**
 
-![Sample Applicaiton Diagram](/images/sample-application-diagram.jpg)
+![Sample Applicaiton Diagram](/images/Sample_Architecture_Outline.png)
 
 **System Architecture**
 
 Following diagram outlines the system architecture with the Tool stack view of the sample E-Shop Application covered in this Workshop:
-![System Architect](/images/system-architect.png)
+![System Architect](/images/System_Architecture_Outline.jpg)

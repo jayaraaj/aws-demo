@@ -456,7 +456,7 @@ body {
 h2, h3, h4, h5, h6 {
     font-family: "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
     text-rendering: optimizeLegibility;
-    color: #5e5e5e;
+    color: #328DFF !important;
     font-weight: 400;
     letter-spacing: -1px;
 }

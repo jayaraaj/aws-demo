@@ -31,3 +31,8 @@ msbuild.wrn
 
 # Node Modules
 node_modules/
+
+#firebase
+public/
+firebase.json
+.firebaserc

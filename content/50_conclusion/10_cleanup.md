@@ -1,5 +1,5 @@
 +++
-title = "Cleanup"
+title = "Clean-up Activities"
 chapter = false
 weight = 10
 +++

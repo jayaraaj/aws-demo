@@ -1,24 +1,24 @@
 +++
-title = "Create a Cognizant Account to access Workshop content"
+title = "Register with Cognizant"
 chapter = false
 weight = 2
 +++
 
-{{% notice warning %}}
-You need to register yourself on the following Cognizant site to be able to access this workshop content.
-{{% /notice %}}
 
 {{% notice note %}}
-This step is mandatory and is being done with the objective to gather practitioner’s details and give access to workshop relevant Cognizant proprietary Thought Leadership content.
+As part of this workshop, we are presenting Practitioners with a showcase of DevOps and Cloud focused Thought Leadership content from Cognizant. For you to access this Cognizant proprietary content, we request you to please register yourself on the following Cognizant site.
+This step is key in helping Practitioners to get a holistic view on the latest research in DevOps and Cloud and to build a point of view on Cognizant expertise in the workshop applicable technologies
 {{% /notice %}}
 
 #### Step Breakdown
 
-1.	Click on the Link provided in the Warning  section
+1.	Click on the Link provided in the notes section
 
-2.	Provide following input in the given form:
-    - First and Last Name
-    - Update Company 
+2. Provide following input in the given form:
+    - First and Last Name 
+    - Update Company
+    - Update Email ID 
     - Update Designation / Role
-    - Would you like to receive notification from Cognizant on forthcoming Thought Leadership content
-    - Any feedback / Suggestion for the Workshop
+    - Would you like to receive notification from Cognizant on forthcoming relevant Thought Leadership content – Check Box
+    - Register Now Button 
+

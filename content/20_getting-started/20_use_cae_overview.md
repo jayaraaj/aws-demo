@@ -8,7 +8,7 @@ weight = 20
 
 **Application:** Mythical Mysfits E-Shop 
  
-**Description:** A responsive web application for online shopping with basic features to be used for demonstration purpose. The application is compatible with both desktop & mobile platforms. 
+**Description:** A responsive web application for online shopping with basic features to be used for demonstration purpose. The application is compatible with both desktop & mobile platforms and covers shopping needs across segments such as – mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards.  
 
 **Key Features:**
 -  Registration  

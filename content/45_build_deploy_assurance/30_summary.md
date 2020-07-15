@@ -1,5 +1,5 @@
 +++
-title = "Good to Know"
+title = "Summary"
 chapter = false
 weight = 30
 +++

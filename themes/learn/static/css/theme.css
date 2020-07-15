@@ -51,6 +51,7 @@ body #chapter h1 {
     }
 }
 @media only all and (max-width: 47.938em) {
+    .half{ float:none; width: 100%;}
     body #chapter h1 {
         font-size: 2rem;
     }
@@ -1016,6 +1017,7 @@ td {
     padding: 0 0.1rem;
 }
 @media only all and (max-width: 59.938em) {
+    .half{ float:none; width: 100%;}
     #sidebar {
         width: 230px;
     }
@@ -1024,6 +1026,7 @@ td {
     }
 }
 @media only all and (max-width: 47.938em) {
+    .half{ float:none; width: 100%;}
     #sidebar {
         width: 230px;
         left: -230px;
@@ -1130,3 +1133,6 @@ pre .copy-to-clipboard:hover {
 #searchResults {
     text-align: left;
 }
+
+.half{ float: left; width: 50%;}
+.clear {clear: both;}

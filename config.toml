@@ -1,4 +1,4 @@
-baseURL = "https://aws-hugo.web.com"
+baseURL = "http://localhost:1313"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "AWS DevSecOps Modernization Workshop"

@@ -1,9 +1,10 @@
 +++
-title = "End to End Testing Assurance  "
+title = "Module 5: End to End Execution  "
 chapter = true
 weight = 48
 +++
 
-# End to End Testing Assurance  
+# End to End Execution  
 
-{{% children showhidden="false" %}}
+
+![](/images/module5/08Module5.png)

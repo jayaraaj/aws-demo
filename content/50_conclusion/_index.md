@@ -6,4 +6,5 @@ weight = 50
 
 # Conclusion
 
-{{% children showhidden="false" %}}
+
+![](/images/09Conclusion.png)

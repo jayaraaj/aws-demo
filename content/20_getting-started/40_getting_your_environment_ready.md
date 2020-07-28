@@ -100,8 +100,9 @@ Go to the  [CloudFormation](https://console.aws.amazon.com/cloudformation/home) 
 
 ![Repositories](/images/getting-started/stacks.png)
 
-Please navigate to below path in AWS Secrets Manager and you can see the details of the infrastructure created. Refer screenshot below:
-Refer screenshot as shown below: AWS Secrets Manager **->** wrkshpSecrets **->** Retrieve secret value
+Please navigate to below path in AWS Secrets Manager and you can see the details of the infrastructure created. Refer screenshot as shown below: 
+
+AWS Secrets Manager **->** wrkshpSecrets **->** Retrieve secret value
 
 
 ![Repositories](/images/getting-started/awsworkshop2.png)
@@ -112,8 +113,8 @@ As a part of this setup, you have also installed SONARQube and a customized repo
 
 
 We recommend you keep these open in your browser throughout the workshop: 
-- Access SONARQube dashboard : `http://<AppServer_PublicIP>:9000`
-- Access Reporting dashboard : `http://<AppServer_PublicIP >:3337` 
+- Access SONARQube dashboard: `http://<AppServer_PublicIP>:9000`
+- Access Reporting dashboard: `http://<AppServer_PublicIP >:3337` 
 
 Replace the actual IPs from your Secrets Manager in these links (*) to access the dashboards   
 

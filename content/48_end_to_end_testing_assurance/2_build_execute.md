@@ -25,10 +25,10 @@ Go to the [CloudFormation](https://console.aws.amazon.com/cloudformation/home) c
 
 ![Pipeline](/images/module5/module-5-1.png)
 
-At this point, you should have automatically triggered a fully functioning end-to-end-QA CodePipeline.
+At this point, you should have automatically triggered a fully functioning End-to-End-QA CodePipeline.
 
 
-Head over [CodePipeline](https://console.aws.amazon.com/codesuite/codepipeline/home) the AWS console and click on the pipeline that begins with the name workshop- **workshopcodepipelineE2E**, you will see a screen as shown below: 
+Head over [CodePipeline](https://console.aws.amazon.com/codesuite/codepipeline/home) the AWS console and click on the pipeline that begins with the name workshop- **workshopcodepipelineE2E**, you will see the screen as shown below: 
 
 
 

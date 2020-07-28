@@ -7,11 +7,18 @@ weight = 2
 
 #### PIPELINE CREATION AND EXECUTION
 
+{{% notice note %}}
+Please complete the Module 2: Post-Build QA before commencing with this module. This will ensure you have deployed the build on the server successfully before executing the Experience test suits during this module.
+{{% /notice %}}
+
 Execute the cloud formation template from Cloud9 to automatically create the Experience Assurance pipeline.
 
 ```bash text
 aws cloudformation  create-stack --stack-name ExperienceAssurance --template-url https://aws-wrkshp-artifacts.s3-eu-west-1.amazonaws.com/awsworkshop_infrastructure_artefacts/awsworkshop_experience_assurance.json --capabilities CAPABILITY_NAMED_IAM
 ```
+
+Go to the [CloudFormation](https://console.aws.amazon.com/cloudformation/home) console and check the status of your pipeline stack creation named ‘ExperienceAssurance’. It should state - {{% color info %}}“CREATE_IN_PROGRESS”{{% /color %}}.
+
 
 **INFO**: This step takes approximately 1 minute and if successful, you can see the status of STACK - ‘ExperienceAssurance’ as {{% color success %}}“CREATE_COMPLETE”{{% /color %}}, as shown in the screenshot below 
 
@@ -36,6 +43,6 @@ You will notice the pipeline fails at security testing and thus the subsequent s
 Let us fix this issue to re-execute the pipeline and check the overall non-functional impact of the code change committed.
 
 {{% notice recommended %}}
-Additionally, Practitioners can access Cognizant Thought Leadership on Performance Testing for SaaS-based Applications, please review the insightful blog by our technology expert on [“Performance Assurance for SaaS-based Applications”](https://www.linkedin.com/pulse/performance-assurance-saas-based-applications-leo-peter/?published=t).
+Additionally, Practitioners can access Cognizant Thought Leadership on Performance Testing for SaaS-based Applications, please review the insightful blog by our technology expert on **[“Performance Assurance for SaaS-based Applications”](https://www.linkedin.com/pulse/performance-assurance-saas-based-applications-leo-peter/?published=t)**.
 {{% /notice %}}
 

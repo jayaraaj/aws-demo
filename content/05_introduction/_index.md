@@ -14,6 +14,6 @@ weight = 10
 
 
 
-![](/images/intro/01intro.png)
+![](/images/intro/intro.png)
 
 

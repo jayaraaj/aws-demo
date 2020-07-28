@@ -4,9 +4,9 @@ chapter = false
 weight = 4
 +++
 
-### Final Thoughts  
+ 
 
-Given the nature of this workshop, we have demonstrated just a snapshot of the test execution stage and not the overall testing lifecycle. The test strategy and approach for any system landscape depends on the **technology stack**, **development methodology**, **tools & framework selections** but most importantly testing is driven by the **associated business risks** and **expected customer experience**.
+Given the nature of this workshop, we have demonstrated just a snapshot of the test execution stage and not the overall testing lifecycle. The test strategy and approach for any system landscape depends on the technology stack, development methodology, tools & framework selections but most importantly testing is driven by the associated business risks and expected customer experience.
 
 We recommend you browse through the Cognizant portal for Thought Leadership content especially around whitepapers and blogs written by industry experts and Cognizant automation consultants. We will be happy to collaborate with you, as you embark on your journey to explore the depth and breadth of testing in general and DevOps testing in specific. 
 

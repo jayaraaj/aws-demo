@@ -9,7 +9,7 @@ weight = 3
 #### DEBUGGING AND RE-EXECUTION
 Security test build has failed because the X-Frame-Options was not set in the response headers and this was detected by the ZAP Proxy. This rule is set as “**FAIL**” in the gen.conf file for ZAP tool.
 
-To verify this, go to “Report Dashboard” **-->** Go “Experience QA” section and Click on the “Rule Report” link under the “Security Test” section. (This will open the security_test_output.txt in browser).
+To verify this, go to “Report Dashboard” **-->** Go “Experience Assurance” section and Click on the “Rule Report” link under the “Security Test” section. (This will open the security_test_output.txt in browser).
 
 If you scroll down to the bottom of the file, you will notice the failure (as shown in the image below) 
 
@@ -19,7 +19,7 @@ If you scroll down to the bottom of the file, you will notice the failure (as sh
 For now, consider this as a “False Positive” and let us fix these issues. 
 
 
-Change the rule for X-Frame-Options Header Scanner from **FAIL** to **WARN**. Refer screenshot as shown below for details:
+Change the rule for X-Frame-Options Header Scanner from **FAIL** to **WARN**, so that the security test will pass with the warning and the code progresses to the next build step.
   
 
 
@@ -29,7 +29,7 @@ Go to “[AWS CodeCommit](https://console.aws.amazon.com/codesuite/codecommit/ho
 
 Click on “**Edit**”.
 
-Change the rule for X-Frame-Options Header Scanner from **FAIL** to **WARN**. Refer screenshot below for reference:
+Change the rule for X-Frame-Options Header Scanner from **FAIL** to **WARN**. Refer the screenshot  as shown below for details:
 
 ![](/images/module4/debug-3.png)
 

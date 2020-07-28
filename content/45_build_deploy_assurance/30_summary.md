@@ -12,7 +12,7 @@ Additionally, this is also the stage where test data is provisioned into the tes
 
 
 {{% notice recommended %}}
-Additionally, Practitioners can access Cognizant Thought Leadership on Automation, by reviewing the detailed whitepaper by our technology experts on “[Missing the Mark:  10 Reasons Why Automation Fails Across the Software Dev Lifecycle](https://www.cognizant.com/whitepapers/missing-the-mark-ten-reasons-why-automation-fails-across-the-software-development-lifecycle-codex3073.pdf)”.
+Additionally, Practitioners can access Cognizant Thought Leadership on Automation, by reviewing the detailed whitepaper by our technology experts on **“[Missing the Mark:  10 Reasons Why Automation Fails Across the Software Dev Lifecycle](https://www.cognizant.com/whitepapers/missing-the-mark-ten-reasons-why-automation-fails-across-the-software-development-lifecycle-codex3073.pdf)”**.
 {{% /notice %}}
 
 

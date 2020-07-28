@@ -15,7 +15,8 @@ In this stage, developers and testers focus on a set of tests adequate to en
 
 In this module, you will explore the Post Build Quality Assurance stage of the overall testing pipeline for DevOps. This stage is key in confirming the deployed build is stable (or) not and the purpose of the assurance carried out here is to confirm if the QA team can proceed with further testing.
 
-Post-Build Quality Assurance flow:
+**Post-Build Quality Assurance flow:**
+
 ![Testing Functionalities](/images/module2/module-2_pipe.png)
 
 This module consists of two stages viz. **Code Deployment** and **Smoke Testing**. 

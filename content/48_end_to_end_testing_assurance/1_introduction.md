@@ -22,7 +22,11 @@ In prior modules, you have seen how tests are required to verify all facets of t
 
 
 ### PIPELINE OVERVIEW
-**WARNING** – If you have commenced the workshop from this module, you will encounter 3 failures while executing the end-to-end pipeline. Please refer **‘Build and Execute’** and **‘Debug & Fix’** sections of **Module 1**, **Module 3** and **Module 4** to understand these failures and how to fix them.
+
+{{% notice warning %}} 
+If you have commenced the workshop from this module, you will encounter 3 failures while executing the end-to-end pipeline. Please refer **‘Build and Execute’** and **‘Debug & Fix’** sections of **Module 1**, **Module 3** and **Module 4** to understand these failures and how to fix them.
+{{% /notice %}}
+
  
 In this fifth and final module, you will execute all the same tests executed as the part of previous modules, but in a continuous testing pipeline from code commit to final reports. Additionally, in this module you will also read about new-age QA practices like, AI driven QA that are increasingly becoming critical for modern-day testing in DevOps.
 

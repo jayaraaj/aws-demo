@@ -1,12 +1,12 @@
 +++
-title = "AI Driven QA"
+title = "The Accelerator"
 chapter = false
 weight = 4
 +++
 
 #### AI Driven QA
 
-An artificial intelligence (AI) based approach builds on machine learning (ML) to orchestrate quality across the continuous testing pipeline, to enable an autonomous and zero-touch QA.
+An artificial intelligence (AI) driven QA leverages machine learning (ML) and Natural language processing (NLP) algorithms and techniques to build meaningful insights into the product quality. The AI induces this much needed intelligence into the continuous testing pipelines by forecasting possible defects, impacts, gaps, failures and test coverage and help the DevOps teams take informed decisions on run time. No wonder thus that AI is rapidly proving to be the modern day accelerator for testing in DevOps that significantly optimizes the overall testing effort and cycle time.
 
 With AI, QA teams can trigger unattended test cycles, where defects are identified and remedial measures are triggered in run time, based on insights gleaned from historical data sets and past events. This way, the AI engine will ensure that only a robust code progresses from one stage to the next, orchestrating quality across the DevOps pipeline.
 

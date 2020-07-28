@@ -6,6 +6,12 @@ weight = 2
 
 
 #### PIPELINE CREATION AND EXECUTION
+
+{{% notice note %}}
+Please complete the Module 2: Post-Build QA before commencing with this module. This will ensure you have deployed the build on the server successfully before executing the Functional test suits during this module.
+{{% /notice %}}
+
+
 Execute the cloud formation template from Cloud9 to automatically create the Functional Assurance pipeline.
 
 ```bash text
@@ -15,7 +21,7 @@ aws cloudformation  create-stack --stack-name FunctionalAssurance --template-url
 Go to the [CloudFormation](https://console.aws.amazon.com/cloudformation/home) console and check the status of your pipeline stack creation named 'FunctionalAssurance'. It should state - {{% color info %}}“CREATE_IN_PROGRESS”{{% /color %}}
 
 
-**INFO**: This step takes approximately 1 minute and if successful, you can see the status of STACK as {{% color success %}}“CREATE_COMPLETE”{{% /color %}}, as shown in the screenshot below: 
+**INFO**: This step takes approximately 1 minute and if successful, you can see the status of STACK - 'FunctionalAssurance' as   {{% color success %}}“CREATE_COMPLETE”{{% /color %}}, as shown in the screenshot below: 
 
 
 
@@ -37,7 +43,7 @@ Navigate to the Build **->** UI_Test **->** Details
 
 Let us debug to re-execute the pipeline.
 
-{{% notice recommonded %}} 
+{{% notice recommended %}} 
 Additionally, Practitioners can access Cognizant Thought Leadership on CI/CD for Web Services Testing, by referring the insightful whitepaper by our technology experts titled - **“Continuous Integration and Continuous Delivery to Facilitate Web Service Testing”**.  You will find the link to the whitepaper in the Register with Cognizant page -[https://www.cognizant.com/application-modernization](https://www.cognizant.com/application-modernization). 
 {{% /notice %}}
 

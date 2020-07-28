@@ -24,14 +24,14 @@ Navigate to the report to see the error:
 To fix this issue, navigate to [CodeCommit](https://console.aws.amazon.com/codesuite/codecommit/home), find the repository **“awswrkshp-functional-assurance”** and edit the file ShopProductsPage.java
 **awswrkshp-functional-assurance/src/test/java/pages/ShopProductsPage.java**
 
-Refer screenshot as shown below for details:
+Refer the screenshot as shown below for details:
 
 ![AWS Functional Assurance](/images/module3/Module_3-4.png)
 
 You will notice at line# 25 as: @FindBy(id = "productsearch1")
 Change the productsearch1 to productsearch
 
-Provide the required details like author **name**, **email address** and **commit message** (change description) and click **‘commit changes’**
+Provide the required details like **author name**, **email address** and **commit message** (change description) and click **‘commit changes’**
 . 
 ![Commit Changes](/images/module3/Module_3-4-1.jpg)
 The Commit Change will automatically trigger the pipeline and this time it will be executed successfully. Refer the screenshot as shown below for ‘succeeded’ status updated against each stage.

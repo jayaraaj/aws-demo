@@ -17,6 +17,8 @@ To introduce you to the world of testing in DevOps, we have planned hands-on exe
 - How to integrate open source tool-based automation suites in the pipeline
 - How to debug typical issues and fix your continuous testing pipeline
 
+#### Let us get the jargons out of the way in Software Testing
+
 We would like to throw some light on a few common jargons in Software Testing that have been extensively used in this workshop. 
  
 Software Testing, as a practice, has evolved significantly over the decades into modern day Quality Engineering and Assurance (QE&A). Today QE&A goes beyond defect detection, it focuses on engineering quality by driving quality across the lifecycle, helping enterprises get first time right. Seen as a critical practice in agile and DevOps, QE&A continues to evolve as clients accelerate their pivot to digital.  

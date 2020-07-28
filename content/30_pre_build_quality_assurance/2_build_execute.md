@@ -23,7 +23,7 @@ Go to the [CloudFormation](https://console.aws.amazon.com/cloudformation/home) c
 
 ![Cloudformation](/images/module1/Module_1-1.png)
 
-Please click on your stack name. Under Outputs tabs, details of the key services created will reflect. Refer screenshot as shown below:
+Please click on your stack name. Under Outputs tabs, details of the key services created will reflect. Refer the screenshot as shown below:
 
 ![AWS workshop prebuildqa](/images/module1/Module_1-2.png)
 

@@ -39,7 +39,7 @@ weight = 10
 
 In this workshop, we will build and execute the continuous testing pipeline for the E-Shop Application by leveraging AWS services and open source automation tools, as shown below:
 
-![System Architect](/images/getting-started/SystemArchitecture.png)
+![System Architect](/images/getting-started/SolutionOverview.png)
 
 
 

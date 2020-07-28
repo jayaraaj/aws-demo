@@ -22,9 +22,9 @@ In this section, you will learn how to execute static code analysis, unit�
 ![Pipeline](/images/module1/module1_pipeline.png)
 
 **The Pre-Build Quality Assurance CodePipeline consists of the following stages and components:**
-1. *Source Stage** monitors changes to below source code repository for any new commits:
-    - **FrontEndreactApp** – Code for front-end application
-    - **BackEndSprintBootApp** – Code for back-end micro services. 
+1. **Source Stage** monitors changes to below source code repository for any new commits:
+    - **FrontEndReactApp** – Code for front-end application
+    - **BackEndSpringBootApp** – Code for back-end micro services. 
     
 Every code Commit will trigger the CodeBuild job. 
 

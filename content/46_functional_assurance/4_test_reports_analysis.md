@@ -6,7 +6,7 @@ weight = 4
 
 
 #### TEST REPORT ANALYSIS
-You can find in the S3 buckets, the output artifacts i.e. reports and other files, as follows:
+You can find in the S3 buckets, the output artifacts i.e. **reports** and **other files**, as follows:
 
 **Note** - You can get the name of the S3 Bucket from Secret Manager – ‘**Reports**’ noted under section ‘Getting Started.’
 

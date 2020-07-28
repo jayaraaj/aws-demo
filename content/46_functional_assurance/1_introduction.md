@@ -30,7 +30,7 @@ The Functional Assurance pipeline consists of two stages viz. source and build.
 
 With every code change committed to the repository, the pipeline will trigger all the three tests in a parallel i.e. UI based testing, RWD testing and API testing tests. Various dependencies and commands required for respective tests are defined in the buildspec.yml file in the source code repository. 
 
-Automation for UI on desktop and mobile with RWD tests is implemented using open source tools – Selenium, Cucumber and Maven following Page Object Factory Pattern:
+Automation for UI on desktop and mobile with RWD tests is implemented using open source tools – Selenium, Cucumber and Maven following Page Factory Pattern:
 
 - **UI Automation**: Ten test cases will be executed using AWS CodeBuild and the results will be saved in the directory - awswrkshp_functional_assurance_ui/target/extent-reports in the target s3 bucket.
 

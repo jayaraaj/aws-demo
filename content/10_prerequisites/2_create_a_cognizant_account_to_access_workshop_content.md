@@ -5,7 +5,7 @@ weight = 2
 +++
 
 
-{{% notice note %}}
+{{% notice info %}}
 In addition to the workshop itself, we are pleased to offer you several thought leadership and research pieces about testing from a few experienced testing experts at Cognizant. We ask that you kindly register yourself at:
 [https://www.cognizant.com/application-modernization](https://www.cognizant.com/application-modernization)
 

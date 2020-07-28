@@ -6,4 +6,14 @@ weight = 10
 
 # Introduction
 
-{{% children showhidden="false" %}}
+
+
+
+
+
+
+
+
+![](/images/intro/01intro.png)
+
+

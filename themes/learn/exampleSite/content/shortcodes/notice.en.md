@@ -47,7 +47,7 @@ renders as
 A tip disclaimer
 {{% /notice %}}
 
-### Warning
+### Notice
 
 ```
 {{%/* notice warning */%}}

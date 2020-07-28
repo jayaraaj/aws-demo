@@ -1,28 +1,19 @@
 +++
-title = "Workshop structure & ground rules"
+title = "The Structure"
 chapter = false
 weight = 30
 +++
 
-#### Module based Structure 
-
-1.	The workshop design cover’s five continuous but independent modules catering to specific areas in the Testing Lifecycle. Each module is created as a unit comprising of associated Test activities and leading to a partially tested product. 
-2.	Practitioners can review the Module-based introductions to get an understanding on the scope of testing types covered in a DevOps based pipeline.
-3.	In the live Workshop, Cognizant consultants will pick specific modules for a deep dive and support the hands-on testing of the sample application in scope. 
-4.	Workshop also gives scope the practitioner to introduce defects / issues in the pipeline and follow the module-based steps to fix the defect as a means of building a deeper understanding on the module. 
-
-#### Test Activities not in scope 
-
-Following activities are considered not in scope of this workshop: 
-
-1.	Requirement Analysis 
-2.	Test Design 
-3.	Configuration Testing
-4.	Test Data provisioning and 
-5.	In-sprint Testing
-6.	AI BoTs
 
 
-#### Alternative Approaches available 
+- **Scope**: For this workshop, we will focus on the execution stage of the testing pipeline and not the complete testing life cycle.
+- **Modular Structure**: This workshop constitutes of five modules that explain a continuous testing pipeline in a chronological sequence. Each module provides an overview, relevant concepts and practices, before getting into the pipeline execution.
 
-There are many ways of testing the same thing. Hence as part of this workshop, Practitioners will be oriented with alternative approaches / reusable assets that can be applied to the standard method of building a continuous testing pipeline. Workshop lists out some of these alternative tools, services and frameworks that can be applied to each type of Testing in scope like Functional Testing, Mobile, API based services, Performance etc.
+- **Solve and Learn**: We have induced few defects in the application code and test assets, so that you can debug and fix them to gain a more practical insight into this workshop.
+
+- **Possibilities Infinitum**: There is no one right way to test an application. For this workshop, we have made a few broad assumptions for our testing approach, pipeline orchestration, tools and frameworks.
+
+- **Meet Tikk!**: The over-enthusiastic, effervescent and self-confessed testing geek. Tikk is your assistant for this workshop. In the section - ‘Tikk Talk’, Tikk shares interesting info like - alternative approaches, practitioner tips, best practices, industry trends and trivia.
+
+![](/images/intro/tt.png)
+

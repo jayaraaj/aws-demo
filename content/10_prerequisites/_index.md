@@ -6,4 +6,5 @@ weight = 10
 
 # Prerequisites
 
-{{% children showhidden="false" %}}
+
+![](/images/02Prerequisites.png)

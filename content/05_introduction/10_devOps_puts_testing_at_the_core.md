@@ -5,10 +5,11 @@ weight = 10
 +++
 
 
-A prevailing myth around DevOps is that it builds high-quality applications by simply fostering coordination between developers and operation teams; thereby eliminating the need for testing. 
 
-On the contrary, DevOps transforms the role of testing from that of a gatekeeper to a guardian of quality. It dismantles testing from its traditionally siloed position toward the end gates, and embeds it at each stage - thus orchestrating testing across the lifecycle to deliver quality at speed.  
+Previously, there was a popular misconception about DevOps, that bringing development and operations teams together would result in greater efficiency, eliminating the very need for testing. However, it was quickly realized that this was not the case. On the contrary, DevOps transformed the role of testing from that of a gatekeeper to a guardian of quality across the lifecycle. This transition eliminates testing silos and instead embeds it in each stage of the DevOps process to deliver much needed quality at speed. 
+  
 
-![devops](/images/devops_outline.jpg)
 
-DevOps-aligned testing shifts left and helps developers run quality checks, even before they start coding. It also plays a crucial role in production where it monitors incidents and rectifies defects before they affect customer experience, all the while rendering a faster feedback loop for proactive defect detection.
+![devops](/images/intro/devops_outline.png)
+
+Testing in DevOps, shifts left towards Development, by helping the Dev team embrace testing to run quality checks during the development process itself, often before they start coding. At the same time, Testing in DevOps also shifts right towards Operations, allowing for incidents in production to be detected faster and before they adversely affect the end-user experience.

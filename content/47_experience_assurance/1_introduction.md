@@ -16,7 +16,7 @@ Shift left with NFT, allows developers / testers to leverage scaled-down environ
 Non-Functional Testing in DevOps is integrated across the lifecycle, here are few typical use cases:
 - During build phase, it includes code-quality analysis, code profiling, single user performance validation etc.
 - During environment setup, it covers automatic spin-off, off load generation environment, automatic environment configuration and test execution.
-- During functional testing, it leverages automation scripts for Client side performance and accessibility assessments.
+- During functional testing, it leverages automation scripts for client-side performance and accessibility assessments.
 
 
 
@@ -28,7 +28,7 @@ Non-Functional Testing in DevOps is integrated across the lifecycle, here are fe
 
 #### PIPELINE OVERVIEW
 
-In this module, you will explore how experience is assured with non-functional testing. In digital, customer experience is critical for success and non-functional aspects plays a significant role as an application’s functionality. You will see how an application’s performance, security and accessibility are validated in continuous pipeline with an open-source tool stack.  
+In this module, you will explore how experience is assured with non-functional testing. In digital, customer experience is critical for success and non-functional aspects play a significant role in an application’s functionality. You will see how an application’s performance, security and accessibility are validated in continuous pipeline with an open source tool stack.
 
 ![Pipeline](/images/module4/pipe-1.png)
 
@@ -40,7 +40,7 @@ With every code change committed to the repository, all three tests will be trig
 
  Performance Tests source files:
 - **AWSWrksp_NFTPerformance_Scenario.jmx** – jmeter scenario file with required transactions.
-- 	**data_*.csv files** – input data files to be used inside jmeter scenario during runtime (such as credentials, sample credit cards, product names).
+- 	data_*.csv files – input data files to be used inside jmeter scenario during runtime (such as credentials, sample credit cards, product names). 
 - **.py files** – a set of python files to send data to result dashboard and to pass / fail the build run based on few conditions such as response time SLA and transaction failures.
 
  **Security Tests** are triggered via the open-source tool owasp ZAP. These tests will perform a passive baseline security scan with predefined rules against the given URL and save the results under “security_test_results” in the target s3 bucket.

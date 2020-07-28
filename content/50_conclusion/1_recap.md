@@ -6,16 +6,16 @@ weight = 1
 
 ### Congratulations 
 
-Well Done! with your help, we have successfully demonstrated to Mythical Mysfits team how to orchestrate their Testing in DevOps and enable earlier defect detection and higher-quality deployments. 
+Well Done! With your help we have successfully demonstrated to Mythical Mysfits team, how to orchestrate their Testing in DevOps and enable earlier defect detection and higher-quality deployments.  
 
-You have successfully completed the **“Test Automation in DevOps”** workshop on embracing quality assurance across the lifecycle.
+You have successfully completed the **“Test Automation in DevOps”** workshop, embracing quality assurance across the lifecycle. 
 
 
 
 
 ### We have accomplished
 
-In this workshop, we have built, fixed and executed the Continuous Testing pipelines. Along with this hands-on implementation experience, now you also have a high level understanding of about testing in DevOps including various testing stages, their objectives, the challenges, the enablers and some of industry best practices. 
+In this workshop, we have built, fixed and executed the Continuous Testing pipeline. Along with this hands-on implementation, you now also have a high-level understanding on testing in DevOps, including various testing stages, their objectives, challenges, enablers and some industry best practices.  
 
 As committed in the 'In-Store for Practitioners' section, we have discussed the answers to the following questions in this workshop :
 

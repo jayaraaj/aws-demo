@@ -6,14 +6,14 @@ chapter = false
 +++
 
 #### Objective: To check the readiness of the build for testing and preparing the environment for subsequent test executions
-In this stage, developers and testers focus on a set of tests adequate to ensure critical functionalities work as required in the build, known as build verification testing, confidence testing, build acceptance testing. 
+In this stage, developers and testers focus on a set of tests adequate to ensure critical functionalities work as required in the build and  these tests are also known as build verification testing, confidence testing (or) build acceptance testing.  
 
 ![Testing Functionalities](/images/module2/Module_2.png)
 
 
 #### PIPELINE OVERVIEW
 
-In this module, you will explore the Post Build Quality Assurance stage of the overall testing pipeline for DevOps. This stage is key in confirming the deployed build is stable (or) not and the purpose of the assurance carried out here is to confirm if the QA-team can proceed with further testing.
+In this module, you will explore the Post Build Quality Assurance stage of the overall testing pipeline for DevOps. This stage is key in confirming the deployed build is stable (or) not and the purpose of the assurance carried out here is to confirm if the QA team can proceed with further testing.
 
 Post-Build Quality Assurance flow:
 ![Testing Functionalities](/images/module2/module-2_pipe.png)

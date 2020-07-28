@@ -12,7 +12,7 @@ You can find in the S3 buckets, the output artifacts i.e. reports and other file
 
 ![S3 Buckets](/images/module3/Module_3-5-1.png)
 
-You can now refresh the reporting dashboard and review the test results for this pipeline. (Refer the screenshot)
+You can now refresh the reporting dashboard and review the test results for this pipeline. Refer the screenshot as shown below: 
 
 ![AWS Pipeline Report](/images/module3/Module_3-6.png)
 

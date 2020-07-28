@@ -10,13 +10,14 @@ weight = 3
 
 You can now refresh the reporting dashboard and review the smoke test results for this stage. 
 
-Refer the screenshot below for details:
+Refer the screenshot as shown below for details: 
 
 ![](/images/module2/module-2_4.png)
 
-User should be able to see the test summary of the recently executed CodeBuild Project for Smoke Testing. For the detailed report, navigate to ‘Detailed report for the corresponding testing type.
+User should be able to see the test summary of the recently executed CodeBuild Project for Smoke Testing. For the detailed report, navigate to detailed report for the corresponding testing type. 
 
-Refer the screenshot below for more details:
+Refer the screenshot as shown below for details:
+
 ![Create Complete](/images/module2/module-2_5.png)
 
 

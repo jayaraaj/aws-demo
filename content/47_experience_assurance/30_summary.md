@@ -8,7 +8,7 @@ In DevOps, it is crucial to shift non-functional testing to left to provide fast
 
 For this workshop, we have only considered selective non-functional checks. However, in practice, assuring experience consists of a large gamut of non-functional tests and practices. 
 
-Refer diagram below for the types of tests for Experience Assurance:
+Refer the diagram shown below for the types of tests for Experience Assurance:
 
 ![Experience Assurance](/images/module4/summary-1.png)
 

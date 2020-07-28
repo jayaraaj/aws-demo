@@ -22,11 +22,11 @@ In prior modules, you have seen how tests are required to verify all facets of t
 
 
 ### PIPELINE OVERVIEW
-**WARNING** – If you have commenced the workshop from this module, you will encounter 3 failures while executing the end-to-end pipeline. Please refer ‘Build and Execute’ and ‘Debug & Fix’ sections of Module 1, Module 3 and Module 4 to understand these failures and how to fix them.
+**WARNING** – If you have commenced the workshop from this module, you will encounter 3 failures while executing the end-to-end pipeline. Please refer **‘Build and Execute’** and **‘Debug & Fix’** sections of **Module 1**, **Module 3** and **Module 4** to understand these failures and how to fix them.
  
 In this fifth and final module, you will execute all the same tests executed as the part of previous modules, but in a continuous testing pipeline from code commit to final reports. Additionally, in this module you will also read about new-age QA practices like, AI driven QA that are increasingly becoming critical for modern-day testing in DevOps.
 
-**End-to-end Quality Assurance CodePipeline consists of the following stages and components:**
+**End-to-end Quality Assurance Code Pipeline consists of the following stages and components:**
  
 •	**Source Stage** – contains source code for all the subsequent stages i.e. application source code for front-end and back-end, functional test code for Smoke, API, UI and RWD testing types and code for experience assurance testing types, namely – performance, security and accessibility.
  

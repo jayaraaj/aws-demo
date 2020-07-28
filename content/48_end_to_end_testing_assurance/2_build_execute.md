@@ -17,8 +17,9 @@ aws cloudformation  create-stack --stack-name E2EAssurance --template-url https:
 
 Go to the [CloudFormation](https://console.aws.amazon.com/cloudformation/home) console and check the status of your pipeline stack creation named 'E2EAssurance'. It should state - {{% color info %}}“CREATE_IN_PROGRESS”{{% /color %}}
 
+**INFO** – This step takes approximately 1 minute and if successful, you can see the status of STACK - ‘E2EAssurance’ as {{% color success %}}“CREATE_COMPLETE”{{% /color %}} as shown in the screenshot below: 
 
-**INFO**: This step takes approximately ~1 minute and if successful, you can see the status of STACK -  'E2EAssurance' as {{% color success %}}“CREATE_COMPLETE”{{% /color %}}, as in the screenshot below:
+
 
 
 
@@ -26,7 +27,9 @@ Go to the [CloudFormation](https://console.aws.amazon.com/cloudformation/home) c
 
 At this point, you should have automatically triggered a fully functioning end-to-end-QA CodePipeline.
 
-Head over to [CodePipeline](https://console.aws.amazon.com/codesuite/codepipeline/home) in the AWS console and click on the pipeline that begins with the name workshop- **workshopcodepipelineE2E**, you will see a screen similar to the one below:
+
+Head over [CodePipeline](https://console.aws.amazon.com/codesuite/codepipeline/home) the AWS console and click on the pipeline that begins with the name workshop- **workshopcodepipelineE2E**, you will see a screen as shown below: 
+
 
 
 ![Pipeline](/images/module5/module-5-2.png)

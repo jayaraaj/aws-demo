@@ -639,7 +639,7 @@ code, kbd, pre, samp {
 }
 code {
     border-radius: 2px;
-    white-space: nowrap;
+    white-space: wrap;
     color: #5e5e5e;
     background: #FFF7DD;
     border: 1px solid #fbf0cb;

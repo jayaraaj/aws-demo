@@ -12,7 +12,7 @@ Functional behaviors are “what” the system should do. Functional testing eva
 These tests should be performed at all test levels, though the focus is different at each level. For our particular use case, we will focus on the following
 - UI focuses on validating business process through screens and objects
 - API focuses on back-end services leveraged by front-end elements and objects
-- Mobile refers to a RWD (Responsive Web Design) based interfaces
+- Mobile refers to an RWD (Responsive Web Design) based interfaces
 
 
 
@@ -20,7 +20,7 @@ These tests should be performed at all test levels, though the focus is differen
 
 
 #### PIPELINE OVERVIEW
-This module will walk you through the assurance of your application functionalities. You will learn how to execute UI-based tests, responsive web design (RWD)-based tests and API tests with an open-source tool stack. 
+This module will walk you through the assurance of your application functionalities. You will learn how to execute UI-based tests, responsive web design (RWD)-based tests and API tests with an open source tool stack.  
 
 
 ![](/images/module3/intro-1.png)

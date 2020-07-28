@@ -437,7 +437,8 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     border-bottom: 4px solid #F0F2F4;
 }
 #chapter p {
-    text-align: left;
+   /*text-align: left;*/
+   text-align: center;
     font-size: 1.2rem;
 }
 #footer {
@@ -537,6 +538,14 @@ div.notices.tip p:first-child:after {
     content: 'Tip';
 }
 
+div.notices.recommended p {
+    border-top: 30px solid rgba(92, 184, 92, 0.8);
+    background: #E6F9E6;
+}
+div.notices.recommended p:first-child:after {
+    content: 'Recommended Reading';
+}
+
 /* attachments shortcode */
 
 section.attachments {
@@ -630,7 +639,7 @@ code, kbd, pre, samp {
 }
 code {
     border-radius: 2px;
-    white-space: nowrap;
+    white-space: wrap;
     color: #5e5e5e;
     background: #FFF7DD;
     border: 1px solid #fbf0cb;
@@ -1136,3 +1145,24 @@ pre .copy-to-clipboard:hover {
 
 .half{ float: left; width: 50%;}
 .clear {clear: both;}
+
+.trail:before {
+    content: "";
+    display: inline-block;
+    width: 86px; 
+    height: 23px; 
+    background: url('/images/trail-logs-png-image.png');
+
+}
+
+.extend:before {
+    content: "";
+    display: inline-block;
+    width: 30px; 
+    height: 23px; 
+    background: url('/images/extent-reports-icon-png.png');
+
+}
+
+.success { color: #20cf0e;}
+.info { color: #3282dc;}

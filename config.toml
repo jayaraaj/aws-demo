@@ -6,6 +6,7 @@ theme = "learn"
 uglyurls = true
 sectionPagesMenu = "main"
 pygmentsCodeFences = true
+publishDir = "jayaraaj.github.io"
 
 [blackfriday]
 hrefTargetBlank = true

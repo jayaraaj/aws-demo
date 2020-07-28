@@ -1,9 +1,10 @@
 +++
-title = "Experience Assurance"
+title = "Module 4: Experience Assurance"
 chapter = true
 weight = 47
 +++
 
-# Non-Functional Assurance 
+# Experience Assurance
 
-{{% children showhidden="false" %}}
+
+![](/images/module4/07Module4.png)

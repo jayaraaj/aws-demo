@@ -1,9 +1,11 @@
 +++
-title = "Build & Deploy Assurance"
+title = "Module 2: Post-Build QA"
 chapter = true
 weight = 45
 +++
 
-# Build & Deploy Assurance
+# Post-Build Quality Assurance
 
-{{% children showhidden="false" %}}
+
+
+![](/images/module2/05Module2.png)

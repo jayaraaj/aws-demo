@@ -4,13 +4,14 @@ chapter = false
 weight = 30
 +++
 
-Testing in DevOps essentially means testing early and testing often. Thus, functional test automation has to go beyond the traditional UI based execution to cover components such as data and services. And this change in test approach shifts testing left.
+Testing in DevOps essentially means testing early and testing often. Thus, it is implicit that functional automation must go beyond the traditional UI based tests, to leverage other architectural components such as data and services. This speeds up test execution and helps with shift left as now you can validate these components as soon as they are developed, rather than waiting for the Development team to deliver a working UI.
 
-Even though for this workshop, we have only considered select tests such as UI, RWD and API, in practice functional assurance consists of a wide range of testing types and practices.
+For this workshop, we have only considered select tests, in practice however, functional assurance consists of a wide range of testing types and stages, here is an indicative list for your reference
+
  
-`<Need image of all types of tests included in Experience Assurance>`
+![](/images/module3/module_3_sumary.png)
 
-Well done! You have successful fixed the error and executed your functional assurance pipeline. 
+Well done! You have successfully fixed the error and executed your functional assurance pipeline.
 
 You are good to go with the next module of this workshop.
 

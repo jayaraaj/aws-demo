@@ -1,9 +1,10 @@
 +++
-title = "Functional Assurance "
+title = "Module 3: Functional Assurance "
 chapter = true
 weight = 46
 +++
 
 # Functional Assurance 
 
-{{% children showhidden="false" %}}
+
+![](/images/module3/06Module3.png)

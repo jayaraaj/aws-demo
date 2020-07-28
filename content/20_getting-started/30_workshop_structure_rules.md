@@ -1,30 +1,19 @@
 +++
-title = "Workshop structure & ground rules"
+title = "The Structure"
 chapter = false
 weight = 30
 +++
 
-#### Module Structure
-
-1.	The workshop design covers five continuous but independent modules catering to specific areas in the testing lifecycle. Each module is created as a unit comprising of associated test activities and leading to a partially tested product. 
-2.	Practitioners can review the module-based introductions for an overview of its scope.
-3.	In the live Workshop, Cognizant consultants will pick specific modules for a deep dive and support hands-on testing of the sample application. 
-4.	Workshop also gives the practitioner scope to introduce defects / issues and follow module-based steps to fix defects for a deeper understanding on the module. 
 
 
+- **Scope**: For this workshop, we will focus on the execution stage of the testing pipeline and not the complete testing life cycle.
+- **Modular Structure**: This workshop constitutes of five modules that explain a continuous testing pipeline in a chronological sequence. Each module provides an overview, relevant concepts and practices, before getting into the pipeline execution.
 
-#### Test Activities not in scope 
+- **Solve and Learn**: We have induced few defects in the application code and test assets, so that you can debug and fix them to gain a more practical insight into this workshop.
 
-Following activities are considered not in scope of this workshop: 
+- **Possibilities Infinitum**: There is no one right way to test an application. For this workshop, we have made a few broad assumptions for our testing approach, pipeline orchestration, tools and frameworks.
 
-1.	Requirement Analysis 
-2.	Test Design 
-3.	Configuration Testing
-4.	Test Data provisioning and 
-5.	In-sprint Testing
-6.	AI BoTs
+- **Meet Tikk!**: The over-enthusiastic, effervescent and self-confessed testing geek. Tikk is your assistant for this workshop. In the section - ‘Tikk Talk’, Tikk shares interesting info like - alternative approaches, practitioner tips, best practices, industry trends and trivia.
 
+![](/images/intro/tt.png)
 
-#### Alternative Approaches available 
-
-There are many ways of testing the same thing. Hence as part of this workshop, practitioners will be oriented with alternative approaches / reusable assets that can be applied to the standard method of building a continuous testing pipeline. Workshop lists out some of these alternative tools, services and frameworks for each type of Testing in scope.

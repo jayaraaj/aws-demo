@@ -6,4 +6,5 @@ weight = 20
 
 # Getting Started
 
-{{% children showhidden="false" %}}
+
+![](/images/getting-started/03Getting_Started.png)

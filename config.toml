@@ -1,4 +1,4 @@
-baseURL = "https://aws-hugo.web.app"
+baseURL = "http://localhost:1313"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Test Automation in DevOps - AWS Modernization Workshop by Cognizant"

@@ -1,12 +1,12 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://aws-hugo.web.app"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "AWS DevSecOps Modernization Workshop"
+title = "Test Automation in DevOps - AWS Modernization Workshop by Cognizant"
 theme = "learn"
 uglyurls = true
 sectionPagesMenu = "main"
 pygmentsCodeFences = true
-publishDir = "jayaraaj.github.io"
+
 
 [blackfriday]
 hrefTargetBlank = true
@@ -14,8 +14,8 @@ hrefTargetBlank = true
 [params]
 themeVariant = "mine"
 showVisitedLinks = false
-author = "James Bland"
-description = "AWS DevSecOps Modernization Workshop"
+author = "Cognizant"
+description = "Test Automation in DevOps - AWS Modernization Workshop by Cognizant"
 disableSearch = false
 disableAssetsBusting = false
 disableLanguageSwitchingButton = true

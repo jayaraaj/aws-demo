@@ -23,8 +23,9 @@ chmod +x awsworskhop_cleanup_environment.sh
 ./awsworskhop_cleanup_environment.sh
 ```
 
-
-**INFO**: This complete step takes approximately 5 minutes and if successful, you should see the following relevant messages for each command:  
+{{% notice info %}}
+This complete step takes approximately 5 minutes and if successful, you should see the following relevant messages for each command:
+{{% /notice %}}
 
 
 

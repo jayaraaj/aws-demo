@@ -19,9 +19,9 @@ aws cloudformation  create-stack --stack-name ExperienceAssurance --template-url
 
 Go to the [CloudFormation](https://console.aws.amazon.com/cloudformation/home) console and check the status of your pipeline stack creation named ‘ExperienceAssurance’. It should state - {{% color info %}}“CREATE_IN_PROGRESS”{{% /color %}}.
 
-
-**INFO**: This step takes approximately 1 minute and if successful, you can see the status of STACK - ‘ExperienceAssurance’ as {{% color success %}}“CREATE_COMPLETE”{{% /color %}}, as shown in the screenshot below 
-
+{{% notice info %}}
+This step takes approximately 1 minute and if successful, you can see the status of STACK - ‘ExperienceAssurance’ as {{% color success %}}“CREATE_COMPLETE”{{% /color %}}, as shown in the screenshot below 
+{{% /notice %}}
 
 
 
@@ -30,7 +30,7 @@ Go to the [CloudFormation](https://console.aws.amazon.com/cloudformation/home) c
 Go to the CloudFormation console and check the status of your pipeline stack creation named ‘ExperienceAssurance’. It should state - {{% color info %}}“CREATE_IN_PROGRESS”{{% /color %}}.
 
 
-**Note**: On successful creation of the pipeline, the CFN will also auto trigger the execution. You can now view the execution progress by navigating to [CodePipeline](https://console.aws.amazon.com/codesuite/codepipeline/home) and selecting **codepipeline_experience_assurance**
+On successful creation of the pipeline, the CFN will also auto trigger the execution. You can now view the execution progress by navigating to [CodePipeline](https://console.aws.amazon.com/codesuite/codepipeline/home) and selecting **codepipeline_experience_assurance**
 
 
 

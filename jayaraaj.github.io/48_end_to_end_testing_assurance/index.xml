@@ -27,7 +27,7 @@
       
       <guid>https://aws-hugo.web.app/48_end_to_end_testing_assurance/2_build_execute.html</guid>
       <description>PIPELINE CREATION AND EXECUTION To deploy the pipeline, run the following commands in Cloud9’s terminal
-aws cloudformation create-stack --stack-name E2EAssurance --template-url https://aws-wrkshp-artifacts.s3-eu-west-1.amazonaws.com/awsworkshop_infrastructure_artefacts/awsworkshop_e2e_assurance.json --capabilities CAPABILITY_NAMED_IAM Go to the CloudFormation console and check the status of your pipeline stack creation named &amp;lsquo;E2EAssurance&amp;rsquo;. It should state - “CREATE_IN_PROGRESS”INFO – This step takes approximately 1 minute and if successful, you can see the status of STACK - ‘E2EAssurance’ as “CREATE_COMPLETE”as shown in the screenshot below:</description>
+aws cloudformation create-stack --stack-name E2EAssurance --template-url https://aws-wrkshp-artifacts.s3-eu-west-1.amazonaws.com/awsworkshop_infrastructure_artefacts/awsworkshop_e2e_assurance.json --capabilities CAPABILITY_NAMED_IAM Go to the CloudFormation console and check the status of your pipeline stack creation named &amp;lsquo;E2EAssurance&amp;rsquo;. It should state - “CREATE_IN_PROGRESS”This step takes approximately 1 minute and if successful, you can see the status of STACK - ‘E2EAssurance’ as “CREATE_COMPLETE”as shown in the screenshot below:</description>
     </item>
     
     <item>

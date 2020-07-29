@@ -17,9 +17,10 @@ aws cloudformation  create-stack --stack-name E2EAssurance --template-url https:
 
 Go to the [CloudFormation](https://console.aws.amazon.com/cloudformation/home) console and check the status of your pipeline stack creation named 'E2EAssurance'. It should state - {{% color info %}}“CREATE_IN_PROGRESS”{{% /color %}}
 
-**INFO** – This step takes approximately 1 minute and if successful, you can see the status of STACK - ‘E2EAssurance’ as {{% color success %}}“CREATE_COMPLETE”{{% /color %}} as shown in the screenshot below: 
 
-
+{{% notice info %}}
+This step takes approximately 1 minute and if successful, you can see the status of STACK - ‘E2EAssurance’ as {{% color success %}}“CREATE_COMPLETE”{{% /color %}} as shown in the screenshot below: 
+{{% /notice %}}
 
 
 

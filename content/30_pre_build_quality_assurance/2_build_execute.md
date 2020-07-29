@@ -14,7 +14,10 @@ aws cloudformation  create-stack --stack-name PreBuildQA --template-url https://
 
 Go to the [CloudFormation](https://console.aws.amazon.com/cloudformation/home) console and check the status of your pipeline stack creation, named 'PreBuildQA'. It should state - {{% color info %}}“CREATE_IN_PROGRESS”{{% /color %}}.
 
-**INFO**: This step takes approximately ~1minute and if successful, you can see the status of STACK - ‘PreBuildQA’ as {{% color success %}}“CREATE_COMPLETE”{{% /color %}}, as shown in the screenshot below: 
+{{% notice info %}}
+This step takes approximately ~1minute and if successful, you can see the status of STACK - ‘PreBuildQA’ as {{% color success %}}“CREATE_COMPLETE”{{% /color %}}, as shown in the screenshot below: 
+{{% /notice %}}
+
 
 
 

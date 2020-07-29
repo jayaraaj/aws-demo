@@ -28,7 +28,7 @@
       <guid>https://aws-hugo.web.app/45_build_deploy_assurance/2_build_execute.html</guid>
       <description>PIPELINE CREATION AND EXECUTION To deploy the pipeline, run the following commands in Cloud9’s terminal:
 aws cloudformation create-stack --stack-name PostBuildQA --template-url https://aws-wrkshp-artifacts.s3-eu-west-1.amazonaws.com/awsworkshop_infrastructure_artefacts/awsworkshop_postbuild_qa.json --capabilities CAPABILITY_NAMED_IAM Go to the CloudFormation console and check the status of your pipeline stack creation named &amp;lsquo;PostBuildQA&amp;rsquo;. It should state - “CREATE_IN_PROGRESS”.
-INFO: This step takes approximately 1 minute and if successful, you can see the status of STACK - ‘PostBuildQA’ as “CREATE_COMPLETE”, as shown in the screenshot below:</description>
+This step takes approximately 1 minute and if successful, you can see the status of STACK - ‘PostBuildQA’ as “CREATE_COMPLETE”, as shown in the screenshot below:</description>
     </item>
     
     <item>
